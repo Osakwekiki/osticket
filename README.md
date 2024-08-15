@@ -51,6 +51,6 @@ using my IP adreess for my vitual machines to connect on Remote desktop and to i
 
 </p>
 <p
-after completing all setup and configration and texting if all softwear is working poerfectly and using the IIS to check and setup my osticekt, i was able to complete my osticekt and download successful and active to create ticket by my self and for my organization
+after completing all setup and configration and texting if all softwear is working poerfectly and using the IIS to check and setup my osticekt, i was able to complete my osticekt and download successful and active to create ticket by my self and for my organization.
 </p>
 <br />
