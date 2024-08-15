@@ -39,7 +39,7 @@ the first step is creating a vitual machine using azure that we be used to build
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2024-08-15 004727](https://github.com/user-attachments/assets/30d35f1d-e142-4e93-9fcb-740befc0067d)
 </p>
 <p>
 using my IP adreess for my vitual machines to connect on Remote desktop and to install all software needed for the osticket and softwear for my internet information service
@@ -47,7 +47,7 @@ using my IP adreess for my vitual machines to connect on Remote desktop and to i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
