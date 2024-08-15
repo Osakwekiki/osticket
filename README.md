@@ -39,7 +39,8 @@ the first step is creating a vitual machine using azure that we be used to build
 <br />
 
 <p>
-![Annotation 2024-08-15 004727](https://github.com/user-attachments/assets/30d35f1d-e142-4e93-9fcb-740befc0067d)
+![Screenshot (2)](https://github.com/user-attachments/assets/725c1681-574c-4130-ba24-abb1a2be3ded)
+
 </p>
 <p>
 using my IP adreess for my vitual machines to connect on Remote desktop and to install all software needed for the osticket and softwear for my internet information service
