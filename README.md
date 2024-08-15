@@ -50,7 +50,7 @@ using my IP adreess for my vitual machines to connect on Remote desktop and to i
 <p>
 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p
+after completing all setup and configration and texting if all softwear is working poerfectly and using the IIS to check and setup my osticekt, i was able to complete my osticekt and download successful and active to create ticket by my self and for my organization
 </p>
 <br />
