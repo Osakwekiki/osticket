@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-the first step is creating a vitual machine using azure that we be used to build the osticket system.
+the first step is creating a virtual machine using Azure that we are used to building the osticket system.
 </p>
 <br />
 
@@ -43,7 +43,7 @@ the first step is creating a vitual machine using azure that we be used to build
 
 </p>
 <p>
-using my IP adreess for my vitual machines to connect on Remote desktop and to install all software needed for the osticket and softwear for my internet information service
+using my IP address for my virtual machines to connect to a Remote desktop and to install all software needed for the osticket and software for my internet information service
 </p>
 <br />
 
@@ -56,4 +56,4 @@ using my IP adreess for my vitual machines to connect on Remote desktop and to i
 
 </p>
 <br />
-after completing all setup and configration and texting if all softwear is working poerfectly and using the IIS to check and setup my osticekt, i was able to complete my osticekt and download successful and active to create ticket by my self and for my organization.
+after completing all setup and configuration and texting if all software was working perfectly and using the IIS to check and setup my osticekt, I was able to complete my osticekt and download successfully and active to create a ticket by my self and for my organization.
